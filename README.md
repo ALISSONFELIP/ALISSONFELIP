@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALISSONFELIP
-- 👀estou interssado em aprender a proga-
-Estou aprendendo prgamar
+- 👀Estou interssado em aprender a progamar
+Estou aprendendo progamar
 
 <!---
 ALISSONFELIP/ALISSONFELIP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
